@@ -13,6 +13,6 @@
 
 ## 快捷指令地址:
 
-* 电信：[NJUPT-CHINANET](https://www.icloud.com/shortcuts/66f7aa0a1dd24e5b8cfef38637cadafb)
-* 移动：[NJUPT-CMCC](https://www.icloud.com/shortcuts/3eb27068206c4729866aa9981cc05d12)
-* 校园网：[NJUPT](https://www.icloud.com/shortcuts/4ac37b49fc3f467aaa6e9bcc3e7a7c84)
+* 电信：[NJUPT-CHINANET](https://www.icloud.com/shortcuts/f2596ea0189845f4a36b40de62798ddf)
+* 移动：[NJUPT-CMCC](https://www.icloud.com/shortcuts/3bd926be25484e979aabf43eb38f972a)
+* 校园网：[NJUPT](https://www.icloud.com/shortcuts/96570b8d866e485ea32f30adb8bcc097)
